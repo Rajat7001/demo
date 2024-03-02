@@ -32,7 +32,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/Rajat7001",
-  linkedin: "linkedin.com/in/rajat-bisht-0b4915217",
+  linkedin: "https://linkedin.com/in/rajat-bisht-0b4915217",
   gmail: "bishtrajat780@gmail.com",
   instagram: "https://www.instagram.com/_anonymous_7001/",
   facebook: "https://www.facebook.com/profile.php?id=100005631286592&mibextid=LQQJ4d",
